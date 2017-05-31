@@ -6,3 +6,5 @@
 ######Add merge
 v1.1
 A dir test
+v1.2
+add env
