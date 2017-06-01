@@ -4,9 +4,9 @@
 #### Git tracks changs of files
 ##### Creating a new brach is quick and simple
 ###### Add merge
-v1.1
+* v1.1
 A dir test
-v1.2
+* v1.2
 add env
-v1.3
+* v1.3
 add spaces in titles
